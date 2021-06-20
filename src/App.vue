@@ -4,7 +4,7 @@
       <h1>The future of <span class="highlight">your Discord bot</span> is on the way !</h1>
       <ul>
         <li><social-link link="https://twitter.com/HermesBotApp"><img src="./assets/icons/twitter.svg" alt="Twitter Logo"></social-link></li>
-        <li><social-link link="https://hermesbot.app/discord"><img src="./assets/icons/discord.svg" alt="Discorwd"></social-link></li>
+        <li><social-link link="https://discord.gg/aJ8y7G78Ft"><img src="./assets/icons/discord.svg" alt="Discorwd"></social-link></li>
         <li><social-link link="https://github.com/HermesBotApp"><img src="./assets/icons/github.svg" alt="Github Logo"></social-link></li>
       </ul>
     </div>
